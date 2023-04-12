@@ -1,5 +1,5 @@
 {
-  "version": "2.1.3",
+  "version": "1.0.0",
   "license": "ISC",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,12 +24,12 @@
     "lint-staged": "lint-staged"
   },
   "peerDependencies": {
-    "@terra-money/terra.js": "^3",
+    "@terra-rebels/terra.js": "^1",
     "react": ">=16",
     "react-query": "^3.32.1"
   },
-  "name": "@terra-money/react-base-components",
-  "author": "Terra <engineering@terra.money> (https://terra.money)",
+  "name": "@terra-rebels/react-base-components",
+  "author": "Terra Rebels <contact@terra.money> (https://terrarebels.net)",
   "module": "dist/react-base-components.esm.js",
   "size-limit": [
     {
@@ -49,7 +49,7 @@
     "@storybook/addon-links": "^6.3.12",
     "@storybook/addons": "^6.3.12",
     "@storybook/react": "^6.3.12",
-    "@terra-money/terra.js": "^3.1.0",
+    "@terra-rebels/terra.js": "^1.0.0",
     "@types/react": "^17.0.34",
     "@types/react-dom": "^17.0.11",
     "@typescript-eslint/eslint-plugin": "^5.3.1",

@@ -1,5 +1,5 @@
 import React from 'react';
-import { AccAddress } from '@terra-money/terra.js';
+import { AccAddress } from '@terra-rebels/terra.js';
 import { isDenomTerraNative, readAmount, readDenom } from 'terra-utils';
 import { formatDenom, splitTokenText } from './helpers/utility';
 import { DEFAULT_DECIMALS } from './helpers/constants';
