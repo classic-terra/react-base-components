@@ -1,4 +1,4 @@
-import { LCDClientConfig } from '@terra-rebels/terra.js';
+import { LCDClientConfig } from '@terraclassic-community/terra.js';
 
 export interface ComponentProps {
   network: NetworkConfig;

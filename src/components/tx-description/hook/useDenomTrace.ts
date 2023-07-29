@@ -1,5 +1,5 @@
 import { useQuery } from 'react-query';
-import { LCDClient } from '@terra-rebels/terra.js';
+import { LCDClient } from '@terraclassic-community/terra.js';
 
 const useDenomTrace = (denom = '', lcd: LCDClient) => {
   const hash = denom.replace('ibc/', '');

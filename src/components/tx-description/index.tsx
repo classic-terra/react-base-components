@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { AccAddress, ValAddress } from '@terra-rebels/terra.js';
+import { AccAddress, ValAddress } from '@terraclassic-community/terra.js';
 import { ComponentProps } from './helpers/types';
 import { isCoins } from './helpers/utility';
 import { PropsProvider } from './helpers/NetworkProvider';

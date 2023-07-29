@@ -1,5 +1,5 @@
 import { useQuery } from 'react-query';
-import { AccAddress } from '@terra-rebels/terra.js';
+import { AccAddress } from '@terraclassic-community/terra.js';
 import { useLCDClient } from './NetworkProvider';
 import useWhitelist from '../hook/useWhitelist';
 import { TokenInfo } from './types';
